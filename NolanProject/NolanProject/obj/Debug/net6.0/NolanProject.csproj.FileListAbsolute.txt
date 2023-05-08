@@ -1,0 +1,15 @@
+C:\Users\rewin\Desktop\NolanProject\NolanProject\obj\Debug\net6.0\NolanProject.csproj.AssemblyReference.cache
+C:\Users\rewin\Desktop\NolanProject\NolanProject\obj\Debug\net6.0\NolanProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rewin\Desktop\NolanProject\NolanProject\obj\Debug\net6.0\NolanProject.AssemblyInfoInputs.cache
+C:\Users\rewin\Desktop\NolanProject\NolanProject\obj\Debug\net6.0\NolanProject.AssemblyInfo.cs
+C:\Users\rewin\Desktop\NolanProject\NolanProject\obj\Debug\net6.0\NolanProject.csproj.CoreCompileInputs.cache
+C:\Users\rewin\Desktop\NolanProject\NolanProject\bin\Debug\net6.0\NolanProject.exe
+C:\Users\rewin\Desktop\NolanProject\NolanProject\bin\Debug\net6.0\NolanProject.deps.json
+C:\Users\rewin\Desktop\NolanProject\NolanProject\bin\Debug\net6.0\NolanProject.runtimeconfig.json
+C:\Users\rewin\Desktop\NolanProject\NolanProject\bin\Debug\net6.0\NolanProject.dll
+C:\Users\rewin\Desktop\NolanProject\NolanProject\bin\Debug\net6.0\NolanProject.pdb
+C:\Users\rewin\Desktop\NolanProject\NolanProject\obj\Debug\net6.0\NolanProject.dll
+C:\Users\rewin\Desktop\NolanProject\NolanProject\obj\Debug\net6.0\refint\NolanProject.dll
+C:\Users\rewin\Desktop\NolanProject\NolanProject\obj\Debug\net6.0\NolanProject.pdb
+C:\Users\rewin\Desktop\NolanProject\NolanProject\obj\Debug\net6.0\NolanProject.genruntimeconfig.cache
+C:\Users\rewin\Desktop\NolanProject\NolanProject\obj\Debug\net6.0\ref\NolanProject.dll
